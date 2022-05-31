@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 Pour en savoir un peu plus sur moi:
 
 🧑‍ Vous pouvez parcourir mon [CV](https://sophiene13.github.io).</br>
-🤝 Ou peut être faire de nouveau contact sur [LinkedIn](https://www.linkedin.com/in/sophien-bouderbala-636955210/).   
+🤝 Ou peut être faire de nouveau contact sur [LinkedIn](https://www.linkedin.com/in/sophienbouderbala/).   
 📱 Je suis aussi sur [Twitter](https://twitter.com/apicoding). 
