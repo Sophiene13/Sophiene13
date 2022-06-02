@@ -7,7 +7,7 @@ An upcoming web developer
 I am currently in training at the O'clock school to become a Web developer.
 
 * 🌍  I'm based in La Ciotat
-* 🖥️  See my portfolio at [My portfolio](http://https://sophiene13.github.io./)
+* 🖥️  See my portfolio at [My portfolio](http://https://sophiene13.github.io./) to be coming.
 * 🧠  I'm learning Javascript
 
 ### Skills
