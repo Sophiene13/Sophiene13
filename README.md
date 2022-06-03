@@ -1,4 +1,4 @@
-Hi 👋 My name is Sophien Bouderbala
+Hi 👋 My name is Sophiene
 ===================================
 
 An upcoming web developer
